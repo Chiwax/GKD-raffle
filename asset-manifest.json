@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac25129a.chunk.css",
+    "main.js": "/static/js/main.ed7224eb.chunk.js",
+    "main.js.map": "/static/js/main.ed7224eb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.831af46c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.831af46c.js.map",
+    "static/js/2.a616841e.chunk.js": "/static/js/2.a616841e.chunk.js",
+    "static/js/2.a616841e.chunk.js.map": "/static/js/2.a616841e.chunk.js.map",
+    "static/js/3.dd1418a7.chunk.js": "/static/js/3.dd1418a7.chunk.js",
+    "static/js/3.dd1418a7.chunk.js.map": "/static/js/3.dd1418a7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ac25129a.chunk.css.map": "/static/css/main.ac25129a.chunk.css.map",
+    "static/js/2.a616841e.chunk.js.LICENSE.txt": "/static/js/2.a616841e.chunk.js.LICENSE.txt",
+    "static/media/discord-logo.9a823ca6.svg": "/static/media/discord-logo.9a823ca6.svg",
+    "static/media/twitter-logo.8097ca9d.svg": "/static/media/twitter-logo.8097ca9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.831af46c.js",
+    "static/js/2.a616841e.chunk.js",
+    "static/css/main.ac25129a.chunk.css",
+    "static/js/main.ed7224eb.chunk.js"
+  ]
+}
